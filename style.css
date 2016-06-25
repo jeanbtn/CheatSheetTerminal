@@ -1,0 +1,6 @@
+body {background-color: lightblue;
+}
+h1 {text-align: center; text-decoration: underline; font-weight: bold;
+}
+h2 {font-weight: bold; border: 1px solid black; border-radius: 10px; display: inline;
+}
