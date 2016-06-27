@@ -1,0 +1,10 @@
+body {background-color: lightblue; /*Couleur de mon fond de page*/
+}
+h1 {text-align: center; text-decoration: underline; /*Alignement au centre de mon titre, titre souligné*/
+}
+div {display: inline-table; /*Alignement des divisions*/
+}
+h2 {text-decoration: underline; /*Titre souligné*/
+}
+ol { font-weight: bold; border: 1px solid black; border-radius: 10px; display: inline-table; background-color: green; /*Liste en gras, encadrement des liste, alignement des liste, couleur de fond des liste*/
+}
